@@ -16,7 +16,8 @@ theme:
 ## Architecture
 nav:
   - Accueil: index.md
-  - Pense-bete: pense_bete.md
+  - Guide:
+    - Pense-bete: pense_bete.md
 
 ## Extensions
 markdown_extensions:
@@ -30,5 +31,5 @@ markdown_extensions:
   - smarty
   - toc:
       permalink: true
-      baselevel: 1
+      baselevel: 1 # changement
 
