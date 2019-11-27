@@ -2,4 +2,4 @@
 
 ## version 2
 
-- [Le site](https://skp17.github.io/site_mkdocs/)
+- [Le site](https://skp17.github.io/site_mkdocs_v2/)
